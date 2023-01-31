@@ -1,0 +1,93 @@
+.fondo {
+    background-color: lightblue;
+    font-family: 'Bebas Neue', cursive;
+}
+.row {
+    margin-left: 2cm;
+    margin-right: 2cm;
+    background-color: beige;
+}
+.navbar-brand {
+    margin-left: 2cm;
+    font-size: 30px;
+}
+.nav-link {
+    margin-left: 4cm;
+}
+.contacto {
+    margin-top: 3cm;
+    text-align: center;
+    color: black;
+    font-size: 50px;
+}
+.cuadro {
+    background-color: beige;
+    padding-left: 18px;
+    padding-right: 18px;
+    border-radius: 15%;
+}
+.btn {
+    padding: 11px;
+}
+.container-sm {
+    background-color: beige;
+    background-size: 30px;
+}
+
+.back {
+    width: 50px;
+    margin-top: 0.5cm;
+    margin-left: 0.5cm;
+}
+
+.card {
+    margin-left: 2.2cm;
+    margin-top: 1cm;
+    background-color: white;
+}
+
+.card-img-top2 {
+    margin-top: 1cm;
+    width: 260px;
+    height: 250px;
+}
+
+.card-text, .card-title {
+    color: black;
+}
+
+.imagen {
+    margin-left: 10px;
+    width: 20px;
+}
+.imagen2 {
+    margin-left: 10px;
+    width: 25px;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.dropdown-menu {
+    margin-left: 3.5cm;
+}
+
+.size {
+    width: 600px;
+    margin-left: 5.5cm;
+    margin-right: 6cm;
+}
+
+.carrusel {
+    background-color: beige;
+    margin-left: 4cm;
+    margin-right: 4cm;
+    border-radius: 15%;
+}
+
+.letter {
+    color: black;
+}
